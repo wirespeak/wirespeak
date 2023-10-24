@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layout" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 536.7 498.6">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff5700;
+      }
+    </style>
+  </defs>
+
+  <!-- tree #1 -->
+  <polygon class="cls-1" points="0 0 0 304 115 436.7 139.6 412.8 45.7 304 45.7 27.9 0 0"/>
+
+  <!-- tree #2 -->
+  <polygon class="cls-1" points="58 35.5 58 304 146.3 406.3 262.3 293.9 146.3 353.7 103.3 304 103.3 63.7 58 35.5"/>
+
+  <!-- tree #3 -->
+  <polygon class="cls-1" points="115.3 71.1 115.3 304 146.3 339 250.5 290.1 158.8 304 146.3 289.8 146.3 90.2 115.3 71.1"/>
+
+  <!-- tree #4 -->
+  <polygon class="cls-1" points="421.3 71.1 421.3 304 390.3 339 286.2 290.1 377.8 304 390.3 289.8 390.3 90.2 421.3 71.1"/>
+
+  <!-- tree #5 -->
+  <polygon class="cls-1" points="479 35.5 479 304 390.3 406.3 274.3 293.9 390.3 353.7 433.3 304 433.3 63.7 479 35.5"/>
+
+  <!-- tree #6 -->
+  <polygon class="cls-1" points="536.7 0 536.7 304 421.7 436.7 397 412.8 491 304 491 27.9 536.7 0"/>
+
+  <!-- left road -->
+  <polygon class="cls-1" points="127.3 451 263.1 304 168.6 498.6 127.3 451"/>
+
+  <!-- right road -->
+  <polygon class="cls-1" points="409.3 451 273.5 304 368.1 498.6 409.3 451"/>
+
+  <!-- left tent inside -->
+  <path class="cls-1" d="m268.3,278.6h-56.2l56.2-70"/>
+
+  <!-- right tent inside -->
+  <path class="cls-1" d="m268.3,208.6l56.2,70h-56.2"/>
+
+  <!-- left mountains -->
+  <path class="cls-1" d="m268.3,107.3l-48.8,61h0l-61.2-70.7v192.3l110-137.5"/>
+
+  <!-- right mountains -->
+  <path class="cls-1" d="m268.3,152.3l110,137.5V97.6l-61.2,70.7h0l-48.8-61"/>
+
+</svg>
